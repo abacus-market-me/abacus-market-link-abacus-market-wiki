@@ -86,4 +86,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/static/begin.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/static/footer.webp" alt="Abacus Register" style="max-width: 100%;"></a>
 
-Update: url is active again
+
+
+Update:  13.06.2025 04:12 url is now functioning and live
