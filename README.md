@@ -88,4 +88,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  13.06.2025 04:12 url is now functioning and live
+
+
+Update:  16.06.2025
