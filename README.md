@@ -94,4 +94,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  06/21/2025 08-46 Outdated paths
+
+
+Update: Fixed broken link
