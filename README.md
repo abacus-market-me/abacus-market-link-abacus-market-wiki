@@ -96,4 +96,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update: Fixed broken link
+
+
+Update:  24 June
