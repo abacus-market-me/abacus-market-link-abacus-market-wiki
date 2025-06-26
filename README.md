@@ -98,4 +98,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  24 June
+
+
+Update:  26.06.2025
