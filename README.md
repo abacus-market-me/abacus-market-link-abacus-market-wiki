@@ -106,4 +106,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  14.07.2025 Link is now responsive and live
+
+
+Update: URLs repaired
