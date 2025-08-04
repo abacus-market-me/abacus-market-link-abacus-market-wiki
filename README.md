@@ -112,4 +112,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  24 July 2025
+
+
+Update:  04 August 2025 link is live and operational
